@@ -1,4 +1,4 @@
-# Gridi Helpers Visibility
+# Gridi Helpers Width
 
 ## Install
 `bower install gridi-helpers-width`
