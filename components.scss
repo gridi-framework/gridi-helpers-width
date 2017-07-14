@@ -1,0 +1,5 @@
+@each $class, $width in $gridi-helpers-width-sizes {
+    .width-#{$class} {
+        width: $width;
+    }
+}
